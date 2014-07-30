@@ -182,7 +182,6 @@ public class NIOServer implements Runnable {
 			DebugUtil.printStackTrace(e);
 		}
 	}
-
 	
 	
 	@Override
